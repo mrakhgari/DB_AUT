@@ -1,2 +1,6 @@
 # add docs file to gitignore
 *.docs
+# add .idea to gitignore
+*.idea
+# add db files to gitignore
+*/*.dbFiles.d
